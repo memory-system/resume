@@ -1,0 +1,21 @@
+
+[
+    {
+        "role":"Site Reliability Engineer",
+        "company":"Radial Inc.",
+        "summary":"In this role, I partnered with internal software engineering teams to resolve critical support issues, ensuring minimal disruption to customer-facing systems. My role included overseeing change management for infrastructure updates and deployments, where I balanced stability with innovation. I designed and deployed scalable cloud infrastructure using AWS, Kubernetes, and Terraform, while also mentoring junior engineers in reliability best practices.",
+        "range":"February 2016 - Present"
+    },
+    {
+        "role":"Developer",
+        "company":"Current Company LTD",
+        "summary":"Expedited the synergies of collaborative agile tooling.",
+        "range":"March 2014 - February 2016"
+    },
+    {
+        "role":"Developer",
+        "company":"Previous Company Inc.",
+        "summary":"Implemented continuous devops pipelines automationing",
+        "range":"February 2013 - March 2014"
+    }
+]

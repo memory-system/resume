@@ -1,0 +1,2 @@
+
+With over a decade of experience in technology, my journey has taken me from Hardware Technician to IT and Support to Software Developer and now to Site Reliability Engineer (SRE). I bring my wide range of experience to the highly diverse discipline that is SRE.
