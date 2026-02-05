@@ -1,5 +1,5 @@
 title = "Angelo Blades"
-baseURL = "https://example.com/"
+baseURL = "https://big-egg.com/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
