@@ -1,0 +1,30 @@
+
+BEGIN:VCARD
+VERSION:4.0
+
+
+N:Blades;Angelo;;;
+FN:Angelo Blades
+
+
+TEL;TYPE=WORK,VOICE:570 446 8162
+
+
+EMAIL;TYPE=INTERNET,PREF:angelo.blades@gmail.com
+
+
+EMAIL;TYPE=INTERNET,WORK:
+
+
+PHOTO;TYPE=JPG;VALUE=URI:https://example.com/img/me.jpeg
+
+
+ORG:Radial Inc.
+
+
+TITLE:
+
+
+URL:https://example.com/
+
+END:VCARD

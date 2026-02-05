@@ -4,18 +4,21 @@
         "role":"Site Reliability Engineer",
         "company":"Radial Inc.",
         "summary":"In this role, I partnered with internal software engineering teams to resolve critical support issues, ensuring minimal disruption to customer-facing systems. My role included overseeing change management for infrastructure updates and deployments, where I balanced stability with innovation. I designed and deployed scalable cloud infrastructure using AWS, Kubernetes, and Terraform, while also mentoring junior engineers in reliability best practices.",
-        "range":"February 2016 - Present"
+        "range":"January 2023 - July 2024",
+        "tasks":"- Add/Remove/Update users in either the command line via shell commands or the LDAP client on the server. \n - Created an interface in Python for Nagios to display AWS metrics like CPU, Memory usage, and Available storage. \n - Created containers to run development, testing, and production applications. \n - Created monitoring for on prem and cloud deployed applications in AppDynamics. \n - Created monitoring in Nagios for deployment infrastructure. \n - Led the Change Management meetings and oversaw downtime requests. \n - Mentored a team of junior Engineers. \n - Ensured team kept our SLAs by monitoring our SLIs in several observability platforms to track that we met our SLOs."
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Site Reliability Engineer",
+        "company":"The Voleon Group",
+        "summary":"In this role, I monitored and maintained proprietary data pipelines, resolved failures in infrastructure and deployment processes. I contributed to system reliability improvements using Python, Bazel, Terraform, and Kubernetes, while ensuring seamless operation of financial data workflows.",
+        "range":"March 2022 - December 2022",
+        "tasks":"\n- Support Software Engineering Team by resolving small fixes to code.\n- Fixed data ingestion from vendor sources.\n- Created CLI tool to navigate logs in Python.\n- Used Bazel to create/manage build repo for scripts used by SRE team built in Python.\n- Updated Terraform to scale container memory size when microservice failed.\n- Built rapport with the Software Engineering Team to have as a resource for support escalation and break fix implementation.\n- Monitored and scheduled microservices in Airflow"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Site Reliability Engineer",
+        "company":"6 River Systems",
+        "summary":"In this role, I provided technical support for robotic systems and cloud infrastructure, resolving high-severity incidents to meet SLA targets. My responsibilities included mentoring peers, optimizing monitoring metrics, and working with Python, GraphQL, SQL, and networking tools to maintain uptime for deployed solutions.",
+        "range":"March 2021 - March 2022",
+        "tasks":"- Created Prometheus and Grafana servers for monitoring robot data.\n- Managed support tickets in Jira that corresponded with robot failure or issues with the web portal accessed by customers.\n- Navigated LogDNA and use information in these logs to determine\n- Led Root Cause Analysis meetings after a high severity escalation to pinpoint the fundamental reasons for failure and plan prevention action for failure.\n- Created documentation for support engineers to use tools such as GraphQL to update user data."
     }
 ]

@@ -17,10 +17,10 @@ phone = "570 446 8162"
 profileImage = "img/me.jpeg"
 showQr = false
 showContact = true
-showBoards  = true
-showCertifications = true
+showBoards  = false
+showCertifications = false
 showSocializations = true
-sections = ["skills","publications","creations","contributions","experience","education","blog"]
+sections = ["skills","experience","education"]
 vcardfields = [
     "name",
     "image",
@@ -31,6 +31,9 @@ vcardfields = [
     "url",
     "title"
 ]
+[[params.handles]]
+  name = "LinkedIn"
+  link = "https://www.linkedin.com/in/angelo-blades-76b921140"
 
 [outputs]
 home = ["HTML", "JSON"]
