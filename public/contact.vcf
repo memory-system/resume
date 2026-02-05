@@ -16,7 +16,7 @@ EMAIL;TYPE=INTERNET,PREF:angelo.blades@gmail.com
 EMAIL;TYPE=INTERNET,WORK:
 
 
-PHOTO;TYPE=JPG;VALUE=URI:http://localhost:1313/img/me.jpeg
+PHOTO;TYPE=JPG;VALUE=URI:https://big-egg.com/img/me.jpeg
 
 
 ORG:Radial Inc.
@@ -25,6 +25,6 @@ ORG:Radial Inc.
 TITLE:
 
 
-URL:http://localhost:1313/
+URL:https://big-egg.com/
 
 END:VCARD
