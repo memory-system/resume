@@ -1,28 +1,59 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS","IaC"]
-  },{
-      "grouping":"Languages and Frameworks",
-      "skills":[ "Python","Flask","Django","git","Shell","Terraform","Ansible","NGINX","bash","Java"]
+    "grouping": "Architecture",
+    "skills": [
+      "IP Networking",
+      "DNS",
+      "Firewalls",
+      "Load Balancing",
+      "Microservices",
+      "RESTful APIs",
+      "SaaS/PaaS/IaaS",
+      "IaC"
+    ]
   },
   {
-      "grouping":"Monitoring Alerting Ticketing",
-      "skills":[ "Jira","ServiceNow","PagerDuty","LogDNA","AppDynamics","DataDog","Nagios"]
+    "grouping": "Languages and Frameworks",
+    "skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "git",
+      "PowerShell",
+      "Terraform",
+      "Ansible",
+      "bash",
+      "Java"
+    ]
   },
   {
-      "grouping":"Data Management",
-      "skills":["MySQL","GraphQL","PostgresQL","MongoDB"]
+    "grouping": "Monitoring Alerting Ticketing",
+    "skills": [
+      "Jira",
+      "ServiceNow",
+      "PagerDuty",
+      "LogDNA",
+      "AppDynamics",
+      "Graphana",
+      "Prometheus",
+      "Opentelemetry",
+      "DataDog",
+      "Nagios"
+    ]
   },
   {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"Kubernetes","link":"https://kubernetes.io"},
-          {"name":"Cloudflare","link":"https://cloudflare.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Kubernetes","link":"https://kubernetes.io"}
-      ]
+    "grouping": "Data Management",
+    "skills": ["MySQL", "GraphQL", "PostgresQL", "MongoDB"]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Cloudflare",
+      "AWS",
+      "GCP",
+      "Kubernetes"
+    ]
   }
 ]
