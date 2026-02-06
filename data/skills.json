@@ -8,7 +8,7 @@
   },
   {
       "grouping":"Monitoring Alerting Ticketing",
-      "skills":[ "Jira","ServiceNow","LogDNA","AppDynamics","DataDog"]
+      "skills":[ "Jira","ServiceNow","PagerDuty","LogDNA","AppDynamics","DataDog","Nagios"]
   },
   {
       "grouping":"Data Management",
