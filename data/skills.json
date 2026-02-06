@@ -12,7 +12,7 @@
   },
   {
       "grouping":"Data Management",
-      "skills":["SQL","GraphQL","Postgres","MongoDB"]
+      "skills":["SQL","GraphQL","PostgresQL","MongoDB"]
   },
   {
     "grouping":"Containers & Cloud",
