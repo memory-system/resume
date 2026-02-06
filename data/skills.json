@@ -1,32 +1,28 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS","IaC"]
   },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "grouping":"Languages and Frameworks",
+      "skills":[ "Python","Flask","Django","git","Shell","Terraform","Ansible","NGINX","bash","Java"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "grouping":"Monitoring Alerting Ticketing",
+      "skills":[ "Jira","ServiceNow","LogDNA","AppDynamics","DataDog"]
   },
   {
       "grouping":"Data Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
-      ]
+      "skills":["SQL","GraphQL","Postgres","MongoDB"]
   },
   {
     "grouping":"Containers & Cloud",
       "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
           {"name":"Docker","link":"https://docker.com"},
+          {"name":"Kubernetes","link":"https://kubernetes.io"},
+          {"name":"Cloudflare","link":"https://cloudflare.com"},
           {"name":"AWS","link":"https://aws.amazon.com"},
           {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+          {"name":"Kubernetes","link":"https://kubernetes.io"}
       ]
   }
 ]

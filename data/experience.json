@@ -12,7 +12,7 @@
         "company":"The Voleon Group",
         "summary":"In this role, I monitored and maintained proprietary data pipelines, resolved failures in infrastructure and deployment processes. I contributed to system reliability improvements using Python, Bazel, Terraform, and Kubernetes, while ensuring seamless operation of financial data workflows.",
         "range":"March 2022 - December 2022",
-        "tasks":"\n- Support Software Engineering Team by resolving small fixes to code.\n- Fixed data ingestion from vendor sources.\n- Created CLI tool to navigate logs in Python.\n- Used Bazel to create/manage build repo for scripts used by SRE team built in Python.\n- Updated Terraform to scale container memory size when microservice failed.\n- Built rapport with the Software Engineering Team to have as a resource for support escalation and break fix implementation.\n- Monitored and scheduled microservices in Airflow"
+        "tasks":"- Support Software Engineering Team by resolving small fixes to code.\n- Fixed data ingestion from vendor sources.\n- Created CLI tool to navigate logs in Python.\n- Used Bazel to create/manage build repo for scripts used by SRE team built in Python.\n- Updated Terraform to scale container memory size when microservice failed.\n- Built rapport with the Software Engineering Team to have as a resource for support escalation and break fix implementation.\n- Monitored and scheduled microservices in Airflow"
     },
     {
         "role":"Site Reliability Engineer",
@@ -20,5 +20,19 @@
         "summary":"In this role, I provided technical support for robotic systems and cloud infrastructure, resolving high-severity incidents to meet SLA targets. My responsibilities included mentoring peers, optimizing monitoring metrics, and working with Python, GraphQL, SQL, and networking tools to maintain uptime for deployed solutions.",
         "range":"March 2021 - March 2022",
         "tasks":"- Created Prometheus and Grafana servers for monitoring robot data.\n- Managed support tickets in Jira that corresponded with robot failure or issues with the web portal accessed by customers.\n- Navigated LogDNA and use information in these logs to determine\n- Led Root Cause Analysis meetings after a high severity escalation to pinpoint the fundamental reasons for failure and plan prevention action for failure.\n- Created documentation for support engineers to use tools such as GraphQL to update user data."
+    },
+    {
+        "role":"Software Engineer",
+        "company":"Power Fusion Media",
+        "summary":"I developed and maintained web applications using Python and Django while managing both cloud (AWS) and on-premises servers. Additionally, I provided technical support to analysts, ensuring their tools functioned reliably and efficiently.",
+        "range":"January 2020 - February 2021",
+        "tasks":"- Built a web application in Django that created user profiles and took payment information using Stripe.\n- Built a web application for management to monitor call center employee call times.\n- Created scalable infrastructure in AWS that scaled programmatically based on cpu usage of the main node.\n- Provided scripts for data analysts to use in their day to day workflow."
+    },
+    {
+        "role":"Deployment Engineer",
+        "company":"Invia Robotics",
+        "summary":"I specialized in deploying and troubleshooting Linux-based robotic systems in warehouse environments. My role involved remote coordination with software engineers, hardware/software troubleshooting, and automating tasks with Python to improve deployment efficiency.",
+        "range":"September 2018 - January 2020",
+        "tasks":"- Audited a warehouse’s ability to utilize the robotic solution.\n- Conferred with other engineers and designed the robotic implimentation.\n- Built CLI with Python to assist in warehouse robotic testing that simulated picking and packing items.\n- Acted as the main point of contact for customers when it came to the technical concerns.\n- Used Shell scripting to automate installation and updates to robots."
     }
 ]

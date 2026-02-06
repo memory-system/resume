@@ -3,7 +3,7 @@
         "school":"Wilkes University",
         "degree":"Bachelor of Science",
         "major":"Computer Science",
-        "notes":"Pursued a Bachelor’s in Computer Science from Wilkes University, which laid the foundation for my technical career. \n\n COURSES:\n- Programming in Python, Data Structures in Java, Algorithms in C++, Machine Learning, Web Development\n\nPROJECTS\n- Built the Chemistry Department’s internal website they used to create, edit, share, and collaborate on documents using Drupal.\n- Worked with the Chemistry Department to model proteins using Java.\n- Genetic Algorithm implementation in Python to generate strategy for rudimentary games like Ghosts.",
+        "notes":"Pursued a Bachelor’s in Computer Science from Wilkes University, which laid the foundation for my technical career. \n\n COURSES:\n- Programming in Python, \n- Data Structures in Java,\n- Algorithms in C++,\n- Machine Learning,\n- Web Development\n\nPROJECTS\n- Built the Chemistry Department’s internal website they used to create, edit, share, and collaborate on documents using Drupal.\n- Worked with the Chemistry Department to model proteins using Java.\n- Genetic Algorithm implementation in Python to generate strategy for rudimentary games like Ghosts.",
         "range":"2010 - 2012"
     }
 ]
