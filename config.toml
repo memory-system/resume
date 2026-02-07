@@ -17,6 +17,7 @@ phone = "570 446 8162"
 profileImage = "img/me.jpeg"
 showQr = false
 showContact = true
+showStudy = true
 showBoards  = false
 showCertifications = false
 showSocializations = true

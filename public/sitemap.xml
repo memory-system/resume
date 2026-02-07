@@ -2,10 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://big-egg.com/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://big-egg.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://big-egg.com/tags/</loc>
+    <loc>http://localhost:1313/study/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
