@@ -34,7 +34,7 @@
       "PagerDuty",
       "LogDNA",
       "AppDynamics",
-      "Graphana",
+      "Grafana",
       "Prometheus",
       "Opentelemetry",
       "DataDog",
